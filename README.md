@@ -1,4 +1,3 @@
-# AS
 Repositorio de la materia Aprendizaje Supervisado
 
 Repositorio de respuestas de la materia: Aprendizaje Supervisado (2022), en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
