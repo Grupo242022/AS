@@ -5,7 +5,7 @@ Repositorio de respuestas de la materia: Aprendizaje Supervisado (2022), en el m
 
 # **DIPLOMATURA 2022**
 
-# Aprendizaje Supervizado
+# Aprendizaje Supervisado
 
 ## GRUPO Nº24
 
