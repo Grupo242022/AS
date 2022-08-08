@@ -1,12 +1,11 @@
 # AS
 Repositorio de la materia Aprendizaje Supervisado
-# Intro_AA
 
-Repositorio de respuestas de la materia: Introducción al Aprendizaje Supervisado (2022), en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
+Repositorio de respuestas de la materia: Aprendizaje Supervisado (2022), en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
 
 # **DIPLOMATURA 2022**
 
-# Introducción al Aprendizaje Automático
+# Aprendizaje Supervizado
 
 ## GRUPO Nº24
 
@@ -17,7 +16,7 @@ Repositorio de respuestas de la materia: Introducción al Aprendizaje Supervisad
    - [x] Clarisa Manzone
 
 ----   
-En este repositorio se encuentran las entregas con resultados correspondientes a la asignatura de _Aprendizaje Supervisado_.
+En este repositorio se encuentran las entregas correspondientes a la asignatura de _Aprendizaje Supervisado_.
 
 ## **Requerimientos - Librerías necesarias**:
    - [x] matplotlib.pyplot
@@ -31,7 +30,6 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
    - [x] XGBoost
 
 # Documentación:
-## Laboratorio 1: Regresión en Boston
 
    - [x] En este laboratorio se desarrollaron modelos de clasificación en base al set de datos entregado para su estudio.
    - [x] Se trata de un dataset derivado de la competencia Spaceship Titanic de Kaggle. Los datos fueron tomados originalmente de la competencia y se generaron los datasets de entrenamiento y evaluación.
