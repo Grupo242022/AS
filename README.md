@@ -36,11 +36,11 @@ En este repositorio se encuentran las entregas correspondientes a la asignatura 
    - [x] Se trata de un dataset derivado de la competencia Spaceship Titanic de Kaggle. Los datos fueron tomados originalmente de la competencia y se generaron los datasets de entrenamiento y evaluación.
    - [x] En la etapa 1 se realiza en proceso de EDA.
    - [x] En la etapa 2 se completa la fase EDA y se procede al curado del dataset.
-   - [x] En la etapa 3 se eevaluan diferentes tipos de clasificadores. Se evalua la precisión de cada clasificador seleccionando Random Forest para su optimización de hiperparámetros.
-   - [x] Se aplica búsqueda aleatoria con cross validation y sobre el set de hiperparámetros obtenidos en esta etapa inicial se ajusta con mayor detalle aplicando un GridSearch
+   - [x] En la etapa 3 se eevaluan diferentes tipos de clasificadores. Se evalua la precisión de cada clasificador seleccionando Random Forest para su optimización.
+   - [x] Se aplica búsqueda aleatoria de hiperparámetros. Sobre el set de hiperparámetros obtenidos se ajustan los mismos con mayor detalle aplicando un GridSearch evaluando la sensibilidad en la precisión resultante frente a las variaciones propuestas en la grilla de busqueda.
    - [x] Se obtiene un modelo optimo que predice con 0.8+ de precisión según evaluación en la competencia de Kaggle.
    - [x] En la etapa 4 se aborda el problema de clasificación mediante una red neuronal.
-   - [x] Se optimiza la misma ajustando el layerDropout forma manual e iterativa, se prueban distintas capas densas logranse el modelo final. (0.80804 de precisión Kaggle).
-   - [x] En la etapa 5 Se repite el mismo esquema de trabajo aplicado para RandomForest (etapa 3) utilizando XGBoost como clasifificador y la librería Hyperopt como optimizador de hiperparámetros.
+   - [x] Se optimiza la misma ajustando el layerDropout de forma manual e iterativa, se prueban distintas capas densas para definir el modelo final. (0.80804 de precisión Kaggle).
+   - [x] En la etapa 5 se repite el mismo esquema de trabajo aplicado para RandomForest (etapa 3) utilizando XGBoost como clasifificador y la librería Hyperopt como optimizador de hiperparámetros.
 
  
