@@ -28,6 +28,7 @@ En este repositorio se encuentran las entregas correspondientes a la asignatura 
    - [x] missingno
    - [x] scipy
    - [x] XGBoost
+   - [x] hyperopt
 
 # Documentación:
 
@@ -41,3 +42,5 @@ En este repositorio se encuentran las entregas correspondientes a la asignatura 
    - [x] En la etapa 4 se aborda el problema de clasificación mediante una red neuronal.
    - [x] Se optimiza la misma ajustando el layerDropout forma manual e iterativa, se prueban distintas capas densas logranse el modelo final. (0.80804 de precisión Kaggle).
    - [x] En la etapa 5 Se repite el mismo esquema de trabajo aplicado para RandomForest (etapa 3) utilizando XGBoost como clasifificador y la librería Hyperopt como optimizador de hiperparámetros.
+
+ 
